@@ -1,0 +1,9 @@
+# intellij project files
+.idea/
+*.iml
+
+# build target dir
+target/
+
+# Mac files
+.DS_Store
